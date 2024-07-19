@@ -9,5 +9,5 @@
 ## var可变 val不可变 （更推荐使用后者）
 ```scala
 var mutX = 0
-val constX = 420
+val constX = 42
 ```
